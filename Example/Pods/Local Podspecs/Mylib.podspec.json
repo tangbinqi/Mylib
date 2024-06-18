@@ -1,0 +1,24 @@
+{
+  "name": "Mylib",
+  "version": "0.1.0",
+  "summary": "Pod私有库创建学习",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tangbinqi/Mylib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tangbinqi": "tangbinqi@baijia.com"
+  },
+  "source": {
+    "git": "https://github.com/tangbinqi/Mylib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Mylib/Classes/**/*",
+  "swift_versions": "5.0",
+  "swift_version": "5.0"
+}
